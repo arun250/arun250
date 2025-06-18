@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Full Stack Developer passionate about crafting interactive, scalable web applications that make a real impact.
 
-👨‍💻 About Me
+👨‍💻 #About Me
 
 💼 Full Stack Developer
 
