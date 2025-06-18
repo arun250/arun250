@@ -43,8 +43,8 @@ A fully responsive e-commerce site built with React.js and user login functional
 Username: rahul | Password: rahul@2021
 
 ## 📬 Let's Connect!
-LinkedIn: https://www.linkedin.com/in/arun-85335b225/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arun-85335b225/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arun250393@gmail.com)
 
-📧 Email: arun250393@gmail.com
 
 Feel free to explore my repositories. Your feedback and collaboration are always welcome! 😊
