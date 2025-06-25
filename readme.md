@@ -28,7 +28,7 @@ With a strong foundation in tools like HTML, CSS, JavaScript, React JS, Bootstra
 
 ## 💼 Projects
 
-📝 NxtAccess
+📝 NxtAssess
 A timed questionnaire app built with React.js.
 Features include:
 
