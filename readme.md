@@ -39,7 +39,7 @@ Clear UI for attempted/unattempted question tracking
 Fully responsive and user-friendly design
 
 🛍️ NxT Trendz
-[NxtTrendz]([URL](https://NxtTrendzArso22.ccbp.tech)) A fully responsive e-commerce site built with React.js and user login functionality.
+[NxtTrendz] ([URL](https://NxtTrendzArso22.ccbp.tech)) A fully responsive e-commerce site built with React.js and user login functionality.
 
 Username: rahul | Password: rahul@2021
 
