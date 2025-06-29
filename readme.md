@@ -28,20 +28,47 @@ With a strong foundation in tools like HTML, CSS, JavaScript, React JS, Bootstra
 
 ## 💼 Projects
 
-📝 NxtAssess
-A timed questionnaire app built with React.js.
-Features include:
+### 🛍️ [NxtTrendz](https://NxtTrendzArso22.ccbp.tech) A fully responsive e-commerce site built with React.js and user login functionality.
+#### Technologies used: React JS, JS, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token, Authorization, Authentication
 
-10 questions to be completed in 10 minutes
-
-Clear UI for attempted/unattempted question tracking
-
-Fully responsive and user-friendly design
-
-🛍️ NxT Trendz
-[NxtTrendz] ([[URL](https://NxtTrendzArso22.ccbp.tech)]) A fully responsive e-commerce site built with React.js and user login functionality.
+Implemented Nxt Trendz application which is a clone for ECommerce applications like Amazon, Flipkart where users can login and can see list of products with
+search, filters, sort by, etc..
+- Implemented Different pages and routes for Login, Products, Product
+details using React Router components Route, Switch, Link, props, state,
+lists, event handlers, form inputs.
+- Authenticating and authorizing users by taking username, password and
+doing login POST HTTP API Call and implementing filters by sending
+them as query parameters to product api calls.
+- Persisted user login state by keeping jwt token in local storage, Sending
+it in headers of further api calls to authorize the user.
 
 Username: rahul | Password: rahul@2021
+
+### 🏥 [Meds-buddy-App](https://meds-buddy-app.netlify.app/login) 
+#### Technologies used: HTML, CSS, JavaScript, React.js, Node.js, Supabase, Tailwind CSS, TypeScript
+
+- The Medical Tracking App is a user-friendly platform designed to help individuals
+manage their daily medication routine.
+- Users can add their medications, track whether they've taken them each day, and
+upload optional proof photos.
+- The app visually displays a calendar with taken/missed days, calculates
+adherence streaks, and provides real-time updates.
+- With secure login, personalized dashboards, and simple reminders, it ensures
+users stay consistent and accountable with their medication schedule.
+
+### 😇 [EmojiGame](https://arunsoemojigame.ccbp.tech/) 
+#### Technologies used: HTML, CSS, JavaScript, React.js, Node.js
+
+Developed responsive Emoji memory game where users can win it by clicking
+unique emoji each time till all displayed emojis are clicked. All emojis positions
+will be randomized after each click.
+
+- List of Emojis is displayed by using React components, props , lists,
+conditional rendering, styled using CSS and randomized emojis placed
+using event listeners by updating react state.
+- Updated different game states such as emojis list, winning state and
+losing state by using game state variable and conditional rendering.
+
 
 ## 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arun-85335b225/)
